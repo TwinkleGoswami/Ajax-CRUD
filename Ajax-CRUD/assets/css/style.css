@@ -1,0 +1,19 @@
+#register
+{
+   margin-top: 20px;
+    width: 20%;
+}
+#delete
+{
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 20%;
+}
+#address
+{
+    resize: none;
+}
+#text-capital
+{
+    text-transform: capitalize;
+}
